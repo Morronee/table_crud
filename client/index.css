@@ -1,0 +1,60 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@500&family=Roboto&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    font-family: Roboto;
+}
+
+td, th {
+    padding: 10px;
+}
+
+th {
+    background: aqua;
+}
+td {
+    background: #a7ecec;
+    font-size: 14px;
+}
+
+tfoot td {
+    background: aqua;
+}
+
+input {
+    padding: 3px;
+}
+
+button {
+    padding: 5px;
+    width: 125px;
+    border: 0;
+    color: white;
+    background: #025757;
+    cursor: pointer;
+    -webkit-transition: all 0.5s 0s ease;
+    -moz-transition: all 0.5s 0s ease;
+    -o-transition: all 0.5s 0s ease;
+    transition: all 0.5s 0s ease;
+}
+
+button:hover {
+    background: #9DC296;
+}
+
+.btn_submit {
+    width: 100%;
+}
+
+.hide {
+    display: none;
+}
+
+.show {
+    display: block;
+}
+
+
+
+
