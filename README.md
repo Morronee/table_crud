@@ -1,5 +1,3 @@
-#Тествовые задания
-
 ### Задание 1
 https://codepen.io/morronee/pen/ZErbqar?editors=0012
 
